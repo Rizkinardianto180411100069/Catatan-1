@@ -1,0 +1,35 @@
+Ekspresi aritmastika 
+
+pre >  sebelum operan
+post > sesudah operan
+
+Contoh:
+
+inflik  > prefik >  postfik
+
+  A+B   > +AB    >  AB+
+
+  A+B-C > -+ABC  >  AB+C-
+
+  (A + B)*( C + D) > *+AB+CD > AB+CD+* 
+
+
+evaluasi ekspresi postfix
+
+ 123*+ > 1(2*3)> 1+6 > 7
+
+PR
+Desimal ke heksadesimal
+PR 
+kerjakan bagaimana konversi infix > pretix , infix > postix, evaluasi prefix, dan evaluasi postfix 
+  
+
+queues
+	 deque () = pembuka
+	 enqueue()= memasukkan data
+
+
+
+
+
+

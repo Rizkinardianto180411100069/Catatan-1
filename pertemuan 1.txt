@@ -1,0 +1,32 @@
+- REVIUE
+
+- 1. variabel dan tipe data
+	1. variable 
+	   Variabel adalah sebuah nama atau identitas yang merepresentasikan suatu nilai dengan tipe data tertentu.
+	2. tipe data
+	   tipe data : string, intejer, bolean, dan flowat
+
+-2. jenis Alpro
+	1. sequential 
+	   merupakan algoritma yang harus dikerjakan berurutan, mulai dari langkah pertama sampai dengan 
+	   langkah terakhi
+
+	2. Iteration / Looping / Perulangan
+	   syntax akan dieksekusi secara berulang-ulang selama kondisi bernilai True. 
+	   Jika kondisi bernilai False maka proses iterasi akan berhenti.
+
+	3. Branching
+
+-3. String, List, dan Tuple
+	1. String
+		String merupakan salah satu tipe data dalam suatu bahasa pemrograman yang terdiri dari 
+		beberapa character. Pada tipe data string di python, dikenal offset, yang menunjukkan character 
+		ke- dari posisi awal string (yaitu offset 0) .
+	2. List 
+		List adalah struktur data yang terdiri dari beberapa elemen atau anggota list dengan berbagai tipe data. 
+		Masing-masing elemen dipisahkan oleh ','.
+	3. Tuple
+		Tuple, sama halnya dengan list, tuple ini terdiri dari beberapa elemen, 
+		dan elemen tersebut dapat terdiri dari berbagai tipe. Jika pada list, 
+		representasi anggota menggunakan kurung siku atau [a,b,c,...,d], 
+		maka pada tuple menggunakan kurung atau (a, b, c, ..., d)

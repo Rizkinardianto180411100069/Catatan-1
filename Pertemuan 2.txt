@@ -1,0 +1,22 @@
+STACK > Tumpukan 
+
+Mika mana ada data A, B, C, dan D maka D sebagai data yang pertama kali akan muncul
+
+Menggunakan sistem L I F O ( Last In First out), yang terakhir masuk yang terkahir keluar.
+
+Stack menggunakan List 
+
+Operasi pada Stack :
+
+	1. push()  =>  menunggah/ memasukkan data.
+	2. pop()   =>  mengeluarkan data.
+	3. isEmpty() =>  mengecek stack kosong. 
+	4. peek() =>  menampilkan objek terakhir dari stack.
+	5. size() =>  menghitung panjang stack.
+	6. isFull() => mengecek stack penuh.
+	7. stack () => untuk membuat stack kosong
+
+untuk pemulaian program stack :
+
+st=stack()
+
